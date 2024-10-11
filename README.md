@@ -1,32 +1,15 @@
-Initio - Free, multipurpose html5 template
-=============
-
-Initio is a fully featured html5 theme which will help you create a stylish personal or company site. 
-6 page layout templates should cover all your development needs. 
-Font Awesome 4, parallax effects and more are included (but can be turned off of course)
+Portfólio Pessoal
 
 
-License
--------
-**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
+Bem-vindo ao meu portfólio pessoal! Este site foi desenvolvido para exibir alguns dos meus projetos e habilidades como desenvolvedora de software. Abaixo, você encontrará uma breve descrição das tecnologias utilizadas e de como o site foi criado.
 
+Tecnologias Utilizadas
 
-Bug tracker
------------
+HTML5: Estrutura do site.
+CSS3: Estilização das páginas.
+JavaScript: Adiciona interatividade e funcionalidades dinâmicas.
+Bootstrap: Framework de CSS para um design responsivo e moderno.
 
-Found a bug? Please create an issue here on GitHub! 
-https://github.com/pozh/Initio/issues
+Desenvolvimento
 
-
-
-Credits
--------
-* Design and development: **Sergey Pozhilov** - http://pozhilov.com
-* More free templates by Sergey: http://gettemplate.com
-
-Photos used in the template
--------
-* http://www.publicdomainpictures.net/view-image.php?image=19999
-* http://www.publicdomainpictures.net/view-image.php?image=6354
-* http://imcreator.com/free/business/macbook-computer
-* http://unsplush.com# sitePortifolio
+O site foi desenvolvido com base no meu conhecimento pessoal adquirido ao longo de minha jornada como desenvolvedora. Além disso, alguns componentes e ideias foram adaptados a partir de modelos encontrados em recursos públicos na internet, como templates de design e códigos open-source. Esses modelos serviram de inspiração para aprimorar a experiência do usuário e otimizar o desenvolvimento.
